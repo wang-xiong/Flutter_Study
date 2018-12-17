@@ -1,4 +1,4 @@
-# startup_namer
+# Flutter Study
 
 A new Flutter application.
 
